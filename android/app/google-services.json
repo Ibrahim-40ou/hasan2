@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "660548033612",
+    "project_id": "hasan2-9fa42",
+    "storage_bucket": "hasan2-9fa42.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:660548033612:android:000748e0ceb54eeca4e8e9",
+        "android_client_info": {
+          "package_name": "com.example.hasan2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_5gE_eLykKygV4cNHMQfXeZQH7BDLoRE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
